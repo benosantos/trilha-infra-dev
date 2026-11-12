@@ -1,0 +1,75 @@
+[
+    {
+        "identificador": "20261112083000#Analista de TI",
+        "funcionario": "Joao Silva",
+        "vaga": "Analista de TI",
+        "tipo": "NB",
+        "equipamento": "Notebook",
+        "telefone": "11912345678",
+        "status_telefone": "OK",
+        "serie": "PF3A9X7K",
+        "status_serie": "OK",
+        "patrimonio": "PAT-NB-0001"
+    },
+    {
+        "identificador": "20261112083000#Analista de TI",
+        "funcionario": "Joao Silva",
+        "vaga": "Analista de TI",
+        "tipo": "CL",
+        "equipamento": "Celular",
+        "telefone": "11912345678",
+        "status_telefone": "OK",
+        "serie": "ABC123",
+        "status_serie": "OK",
+        "patrimonio": "PAT-CL-0001"
+    },
+    {
+        "identificador": "20261112083000#Analista de TI",
+        "funcionario": "Joao Silva",
+        "vaga": "Analista de TI",
+        "tipo": "CH",
+        "equipamento": "Chip",
+        "telefone": "11912345678",
+        "status_telefone": "OK",
+        "serie": null,
+        "status_serie": "NAO_APLICAVEL",
+        "patrimonio": "PAT-CH-0001"
+    },
+    {
+        "identificador": "20261112084500#Suporte",
+        "funcionario": "Maria Souza",
+        "vaga": "Suporte",
+        "tipo": "NB",
+        "equipamento": "Notebook",
+        "telefone": "21987654321",
+        "status_telefone": "OK",
+        "serie": "DELL123",
+        "status_serie": "OK",
+        "patrimonio": "PAT-NB-0002"
+    },
+    {
+        "identificador": "20261112084500#Suporte",
+        "funcionario": "Maria Souza",
+        "vaga": "Suporte",
+        "tipo": "CH",
+        "equipamento": "Chip",
+        "telefone": "21987654321",
+        "status_telefone": "OK",
+        "serie": null,
+        "status_serie": "NAO_APLICAVEL",
+        "patrimonio": "PAT-CH-0002"
+    },
+    {
+        "identificador": "20261112090000#Infraestrutura",
+        "funcionario": "Carlos Lima",
+        "vaga": "Infraestrutura",
+        "tipo": "CL",
+        "equipamento": "Celular",
+        "telefone": "3132345678",
+        "status_telefone": "OK",
+        "serie": null,
+        "status_serie": "REVISAR",
+        "patrimonio": "PAT-CL-0002",
+        "motivo_serie": "série desconhecida"
+    }
+]

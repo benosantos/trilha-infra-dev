@@ -1,0 +1,5 @@
+﻿carimbo,nome,telefone,vaga,notebook,serie_notebook,celular,serie_celular,chip,linha_chip
+2026-11-12 08:30:00,Joao Silva,(11) 91234-5678,Analista de TI,Sim,PF3A 9X7K,Sim,ABC123,Sim,(11) 99876-5432
+2026-11-12 08:45:00,Maria Souza,(21) 98765-4321,Suporte,Sim,DELL 123,NÃ£o,,Sim,(21) 99876-5432
+2026-11-12 09:00:00,Carlos Lima,(31) 3234-5678,Infraestrutura,NÃ£o,,Sim,Nao sei,NÃ£o,
+2026-11-12 09:15:00,TESTE AutomÃ¡tico,11912345678,Teste,Sim,TESTE123,Sim,TESTE456,Sim,11987654321
